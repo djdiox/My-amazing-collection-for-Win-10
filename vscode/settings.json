@@ -1,0 +1,179 @@
+{
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "prettier": ".prettierrc",
+    "git.confirmSync": false,
+    "terminal.external.windowsExec": "C:\\WINDOWS\\System32\\cmd.exe",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.autofetch": true,
+    "tabnine.experimentalAutoImports": true,
+    "redhat.telemetry.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "gitlens.remotes": [
+        {
+            "domain": "git.app.kaercher.com",
+            "type": "BitbucketServer"
+        }
+    ],
+    "gitlens.integrations.enabled": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.integrated.fontFamily": "Hack Nerd Font Mono",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "F:\\00_Portable\\cmder\\vscode.bat"],
+    "terminal.integrated.defaultProfile.windows": "Cmder",
+    "svelte.enable-ts-plugin": true,
+    "nativescript.analytics.enabled": true,
+    "files.associations": {
+        "*.gs": "javascript"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "json.schemas": [],
+    "yaml.customTags": [
+        "!And",
+        "!And sequence",
+        "!If",
+        "!If sequence",
+        "!Not",
+        "!Not sequence",
+        "!Equals",
+        "!Equals sequence",
+        "!Or",
+        "!Or sequence",
+        "!FindInMap",
+        "!FindInMap sequence",
+        "!Base64",
+        "!Join",
+        "!Join sequence",
+        "!Cidr",
+        "!Ref",
+        "!Sub",
+        "!Sub sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!ImportValue sequence",
+        "!Select",
+        "!Select sequence",
+        "!Split",
+        "!Split sequence"
+    ],
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "yaml.schemas": {
+        "file:///Users/markuswagner/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "git.enableSmartCommit": true,
+    "codestream.serverUrl": "https://api.codestream.com",
+    "codestream.email": "markuswagner93@gmail.com",
+    "[plaintext]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false
+    },
+    "editor.accessibilitySupport": "off",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "explorer.confirmDelete": false,
+    "json.maxItemsComputed": 50000,
+    "editor.largeFileOptimizations": false,
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.ignoreProcessNames": [
+        "starship",
+        "oh-my-posh",
+        "bash",
+        "zsh",
+        "p10k"
+    ],
+    "remote.downloadExtensionsLocally": true,
+    "remote.localPortHost": "allInterfaces",
+    "json.trace.server": "verbose",
+    "debug.javascript.autoAttachFilter": "smart",
+    "aws.profile": "profile:default",
+    "editor.fontFamily": "Roboto, Menlo, Monaco, 'Courier New', monospace",
+    "aws.telemetry": false,
+    "vetur.format.enable": true,
+    "[vue]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "files.autoSave": "onFocusChange",
+    "tslint.ignoreDefinitionFiles": true,
+    "editor.suggest.showMethods": true,
+    "editor.suggest.preview": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.snippetSuggestions": "top",
+    "jestrunner.codeLens": [
+        "run",
+        "watch",
+        "debug"
+    ],
+    "terminal.external.linuxExec": "",
+    "jest.jestCommandLine": "jest",
+    "eslint.format.enable": true,
+    "prettier.requireConfig": true,
+    "vetur.format.defaultFormatter.js": "none",
+    "vetur.format.defaultFormatter.ts": "prettier-tslint",
+    "npm.keybindingsChangedWarningShown": true,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "[javascript]": {
+        "editor.defaultFormatter": "hb432.prettier-eslint-typescript"
+    },
+    "editor.formatOnPaste": false,
+    "gremlins.showInProblemPane": true,
+    "formattingToggle.affects": [
+        "editor.formatOnPaste",
+        "editor.formatOnSave",
+        "editor.formatOnType"
+    ],
+    "gitlens.defaultGravatarsStyle": "identicon",
+    "gitlens.fileAnnotations.command": "changes",
+    "gitlens.views.contributors.showStatistics": true,
+    "gitlens.gitCommands.search.showResultsInSideBar": true,
+    "serverlessIDE.completion": false,
+    "sync.autoUpload": true,
+    "npm.executable.path": "C:\\Program Files\\nodejs\\npm",
+    "workbench.colorCustomizations": {},
+    "trunk.trunkGrayOutNonBlockingIssues": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "npm.packageManager": "yarn",
+    "npm.runSilent": true,
+    "npm.enableRunFromFolder": true,
+    "notion.key": "ere.pft0hph9hej9YCU",
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnSave": false,
+    "terminal.integrated.automationProfile.windows": {
+    "path": ""
+    },
+    "javascript.format.enable": false,
+    "editor.fontSize": 13,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.formatOnType": false,
+    "vue3snippets.insertPragma": true,
+    "vue3snippets.requirePragma": true,
+    "editor.defaultFormatter": "hb432.prettier-eslint-typescript",
+    "[yaml]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "sync.autoDownload": true,
+    "sync.forceDownload": true,
+    "sync.forceUpload": true,
+    "sync.quietSync": false,
+    "sync.gist": "3bbea09949e5cd53adf3d03be20dcb9b",
+    "notion.email": "markuswagner93@gmail.com",
+    "notion.deviceId": ""
+}
